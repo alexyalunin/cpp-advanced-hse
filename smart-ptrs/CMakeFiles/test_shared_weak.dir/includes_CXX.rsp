@@ -1,0 +1,1 @@
+-I//wsl$$/Ubuntu-20.04/home/dnsost/cpp-advanced-hse/util -I//wsl$$/Ubuntu-20.04/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I//wsl$$/Ubuntu-20.04/home/dnsost/cpp-advanced-hse/contrib/catch

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   CMakeFiles/test_shared_from_this.dir/shared_basic/test.cpp.o CMakeFiles/test_shared_from_this.dir/shared_weak/test.cpp.o CMakeFiles/test_shared_from_this.dir/shared_from_this/test.cpp.o  -o ../../test_shared_from_this  ../../libcontrib_catch_main.a 

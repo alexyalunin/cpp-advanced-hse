@@ -1,0 +1,15 @@
+{
+  "allow_change": [
+    "../*.cpp",
+    "../*.h",
+    "../CMakeLists.txt"
+  ],
+  "tests": [
+    "test_faster",
+    "test_baseline",
+    "test_huffman",
+    "test_fft"
+  ],
+  "solutions": "private",
+  "disable_tsan": true
+}

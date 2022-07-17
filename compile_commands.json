@@ -1,0 +1,237 @@
+[
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/contrib/catch -I/home/dnsost/cpp-advanced-hse/util   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /home/dnsost/cpp-advanced-hse/contrib/catch/catch_main.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/contrib/catch/catch_main.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/multiplication",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/multiplication -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_multiplication.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/multiplication/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/multiplication/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/multiplication",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/multiplication -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_multiplication.dir/multiplication.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/multiplication/multiplication.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/multiplication/multiplication.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/harakiri",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/harakiri -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_harakiri.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/harakiri/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/harakiri/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/deque",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/deque -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_deque.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/deque/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/deque/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/dedup",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/dedup -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_dedup.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/dedup/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/dedup/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/cow-vector",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/cow-vector -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_cow_vector.dir/cow_vector_test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/cow-vector/cow_vector_test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/cow-vector/cow_vector_test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/compressed_pair",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/compressed_pair -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_compressed_pair.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/compressed_pair/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/compressed_pair/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/lru-cache",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/lru-cache -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_lru_cache.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/lru-cache/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/lru-cache/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/lru-cache",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/lru-cache -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_lru_cache.dir/lru_cache.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/lru-cache/lru_cache.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/lru-cache/lru_cache.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/string-operations",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/string-operations -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_string_operations.dir/string_operations.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/string-operations/string_operations.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/string-operations/string_operations.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/string-operations",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/string-operations -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_string_operations.dir/string_operations_test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/string-operations/string_operations_test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/string-operations/string_operations_test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/intrusive-list",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/intrusive-list -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_intrusive_list.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/intrusive-list/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/intrusive-list/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/list",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/list -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_list.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/list/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/list/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/string-view",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/string-view -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_string_view.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/string-view/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/string-view/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/bind_front",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/bind_front -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_bind_front.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/bind_front/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/bind_front/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/curry",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/curry -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_curry.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/curry/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/curry/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/stdflib",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/stdflib -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -fconstexpr-depth=2024 -std=gnu++2a -o CMakeFiles/test_stdflib.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/stdflib/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/stdflib/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/dungeon",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/dungeon -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_dungeon.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/dungeon/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/dungeon/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/fold",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/fold -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_fold.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/fold/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/fold/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/grep",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/grep -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++17 -o CMakeFiles/test_grep.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/grep/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/grep/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/safe-transform",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/safe-transform -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_transform.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/safe-transform/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/safe-transform/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/tryhard",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/tryhard -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_tryhard.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/tryhard/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/tryhard/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/defer",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/defer -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_defer.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/defer/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/defer/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/algo_spec",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/algo_spec -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_algo_spec.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/algo_spec/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/algo_spec/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/transform_tuple",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/transform_tuple -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_transform_tuple.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/transform_tuple/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/transform_tuple/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/reflection",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/reflection -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -ftemplate-depth=4096 -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_reflection.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/reflection/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/reflection/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/pipes",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/pipes -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_pipes.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/pipes/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/pipes/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_from_this.dir/shared_basic/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_from_this.dir/shared_weak/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_weak/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_weak/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_from_this.dir/shared_from_this/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_from_this/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_from_this/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_weak.dir/shared_basic/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_weak.dir/shared_weak/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_weak/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_weak/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_shared_basic.dir/shared_basic/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/shared_basic/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_unique_advanced.dir/unique_advanced/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_advanced/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_advanced/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_unique_advanced.dir/unique_basic/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_basic/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_basic/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/smart-ptrs",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_unique_basic.dir/unique_basic/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_basic/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/smart-ptrs/unique_basic/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/brainfuck",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/brainfuck -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_brainfuck.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/brainfuck/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/brainfuck/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/solve_or_die",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/solve_or_die -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -Wno-gnu-zero-variadic-macro-arguments -Wno-unused-but-set-variable -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_solve_or_die.dir/statusor.cc.o -c /home/dnsost/cpp-advanced-hse/tasks/solve_or_die/statusor.cc",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/solve_or_die/statusor.cc"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/solve_or_die",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/solve_or_die -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -Wno-gnu-zero-variadic-macro-arguments -Wno-unused-but-set-variable -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_solve_or_die.dir/status.cc.o -c /home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status.cc",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status.cc"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/solve_or_die",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/solve_or_die -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -Wno-gnu-zero-variadic-macro-arguments -Wno-unused-but-set-variable -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_solve_or_die.dir/status_payload_printer.cc.o -c /home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status_payload_printer.cc",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status_payload_printer.cc"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/solve_or_die",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/solve_or_die -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -Wno-gnu-zero-variadic-macro-arguments -Wno-unused-but-set-variable -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_solve_or_die.dir/status_builder.cc.o -c /home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status_builder.cc",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/solve_or_die/status_builder.cc"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/solve_or_die",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util -I/home/dnsost/cpp-advanced-hse/tasks/solve_or_die -I/home/dnsost/cpp-advanced-hse/contrib/catch   -Wall -Wextra -Wpedantic -g -Wno-gnu-zero-variadic-macro-arguments -Wno-unused-but-set-variable -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/test_solve_or_die.dir/test.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/solve_or_die/test.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/solve_or_die/test.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/gcd",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/ctf_gcd.dir/main.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/gcd/main.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/gcd/main.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/rule-of-5",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -std=gnu++2a -o CMakeFiles/ctf_rule_of_5.dir/main.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/rule-of-5/main.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/rule-of-5/main.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/reallol",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -fsanitize=address -std=gnu++2a -o CMakeFiles/ctf_reallol.dir/main.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/reallol/main.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/reallol/main.cpp"
+},
+{
+  "directory": "/home/dnsost/cpp-advanced-hse/tasks/tasks/bad-hash",
+  "command": "/usr/bin/c++   -I/home/dnsost/cpp-advanced-hse/util   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   -O2 -std=gnu++2a -o CMakeFiles/ctf_bad_hash.dir/main.cpp.o -c /home/dnsost/cpp-advanced-hse/tasks/bad-hash/main.cpp",
+  "file": "/home/dnsost/cpp-advanced-hse/tasks/bad-hash/main.cpp"
+}
+]

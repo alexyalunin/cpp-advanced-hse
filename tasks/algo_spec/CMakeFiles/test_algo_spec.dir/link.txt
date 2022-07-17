@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic -g -g -fsanitize=address,undefined -fno-sanitize-recover=all   CMakeFiles/test_algo_spec.dir/test.cpp.o  -o ../../test_algo_spec  ../../libcontrib_catch_main.a 

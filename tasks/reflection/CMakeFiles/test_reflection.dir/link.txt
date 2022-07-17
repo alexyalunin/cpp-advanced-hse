@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic -g -ftemplate-depth=4096 -g -fsanitize=address,undefined -fno-sanitize-recover=all   CMakeFiles/test_reflection.dir/test.cpp.o  -o ../../test_reflection  ../../libcontrib_catch_main.a 

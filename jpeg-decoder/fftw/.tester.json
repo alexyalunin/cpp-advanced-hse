@@ -1,0 +1,13 @@
+{
+  "allow_change": [
+    "../*.cpp",
+    "../*.h",
+    "../CMakeLists.txt"
+  ],
+  "tests": "test_fft",
+  "solutions": "private",
+  "disable_tsan" : true,
+  "forbidden_regexp" : [
+    "cos"
+  ]
+}

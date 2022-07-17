@@ -1,0 +1,10 @@
+{
+  "allow_change": [
+    "../*.cpp",
+    "../*.h",
+    "../CMakeLists.txt"
+  ],
+  "tests": "test_huffman",
+  "solutions": "private",
+  "disable_tsan" : true
+}
